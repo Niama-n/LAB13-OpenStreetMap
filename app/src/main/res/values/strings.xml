@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenStreetMap</string>
+    <string name="new_location">Location Update: Lat %1$.6f, Lng %2$.6f, Alt %3$.2f m, Acc %4$.1f m</string>
+    <string name="show_map_btn">Open Interactive Map</string>
+</resources>
